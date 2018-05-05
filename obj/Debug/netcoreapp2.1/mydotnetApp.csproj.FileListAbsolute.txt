@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\bin\Debug\netcoreapp2.1\mydotnetApp.deps.json
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\bin\Debug\netcoreapp2.1\mydotnetApp.runtimeconfig.json
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\bin\Debug\netcoreapp2.1\mydotnetApp.runtimeconfig.dev.json
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\bin\Debug\netcoreapp2.1\mydotnetApp.dll
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\bin\Debug\netcoreapp2.1\mydotnetApp.pdb
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\obj\Debug\netcoreapp2.1\mydotnetApp.csprojAssemblyReference.cache
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\obj\Debug\netcoreapp2.1\mydotnetApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\obj\Debug\netcoreapp2.1\mydotnetApp.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\obj\Debug\netcoreapp2.1\mydotnetApp.AssemblyInfo.cs
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\obj\Debug\netcoreapp2.1\mydotnetApp.dll
+C:\Users\Ahmed\Source\Repos\mydotnet\mydotnetApp\obj\Debug\netcoreapp2.1\mydotnetApp.pdb
