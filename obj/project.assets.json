@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmed\\Source\\Repos\\mydotnet\\mydotnetApp\\mydotnetApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmed\\Source\\Repos\\mydotnet\\mydotnetapp\\mydotnetApp.csproj",
       "projectName": "mydotnetApp",
-      "projectPath": "C:\\Users\\Ahmed\\Source\\Repos\\mydotnet\\mydotnetApp\\mydotnetApp.csproj",
+      "projectPath": "C:\\Users\\Ahmed\\Source\\Repos\\mydotnet\\mydotnetapp\\mydotnetApp.csproj",
       "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmed\\Source\\Repos\\mydotnet\\mydotnetApp\\obj\\",
+      "outputPath": "C:\\Users\\Ahmed\\Source\\Repos\\mydotnet\\mydotnetapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
