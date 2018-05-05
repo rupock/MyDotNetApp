@@ -2,3 +2,4 @@
 # init command issued
 # Insert new line 
 # git init was issued previously
+# New line added
