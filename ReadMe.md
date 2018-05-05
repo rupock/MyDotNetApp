@@ -2,4 +2,3 @@
 # init command issued
 # Insert new line 
 # git init was issued previously
-# update Read me file
